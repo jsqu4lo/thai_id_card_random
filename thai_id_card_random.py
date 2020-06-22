@@ -1,3 +1,4 @@
+#author by juckfack
 import random
 
 def randomjj():
